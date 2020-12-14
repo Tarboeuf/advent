@@ -9,3 +9,14 @@ F:\Source\Advent1\bin\Debug\netcoreapp2.2\Advent1.dll
 F:\Source\Advent1\bin\Debug\netcoreapp2.2\Advent1.pdb
 F:\Source\Advent1\obj\Debug\netcoreapp2.2\Advent1.dll
 F:\Source\Advent1\obj\Debug\netcoreapp2.2\Advent1.pdb
+F:\Source\advent\Advent1\bin\Debug\netcoreapp2.2\Advent1.deps.json
+F:\Source\advent\Advent1\bin\Debug\netcoreapp2.2\Advent1.runtimeconfig.json
+F:\Source\advent\Advent1\bin\Debug\netcoreapp2.2\Advent1.runtimeconfig.dev.json
+F:\Source\advent\Advent1\bin\Debug\netcoreapp2.2\Advent1.dll
+F:\Source\advent\Advent1\bin\Debug\netcoreapp2.2\Advent1.pdb
+F:\Source\advent\Advent1\obj\Debug\netcoreapp2.2\Advent1.csprojAssemblyReference.cache
+F:\Source\advent\Advent1\obj\Debug\netcoreapp2.2\Advent1.csproj.CoreCompileInputs.cache
+F:\Source\advent\Advent1\obj\Debug\netcoreapp2.2\Advent1.AssemblyInfoInputs.cache
+F:\Source\advent\Advent1\obj\Debug\netcoreapp2.2\Advent1.AssemblyInfo.cs
+F:\Source\advent\Advent1\obj\Debug\netcoreapp2.2\Advent1.dll
+F:\Source\advent\Advent1\obj\Debug\netcoreapp2.2\Advent1.pdb

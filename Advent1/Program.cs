@@ -35,7 +35,7 @@ namespace Advent1
 
         public static IEnumerable<int> LoadInputs()
         {
-            using (StreamReader reader = new StreamReader(@"F:\Source\Advent1\inputs.txt"))
+            using (StreamReader reader = new StreamReader(@"inputs.txt"))
             {
 
                 string line;

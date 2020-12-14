@@ -685,11 +685,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Source\\Advent1\\Advent1.csproj",
+      "projectUniqueName": "F:\\Source\\advent\\Advent1\\Advent1.csproj",
       "projectName": "Advent1",
-      "projectPath": "F:\\Source\\Advent1\\Advent1.csproj",
+      "projectPath": "F:\\Source\\advent\\Advent1\\Advent1.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\Source\\Advent1\\obj\\",
+      "outputPath": "F:\\Source\\advent\\Advent1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
