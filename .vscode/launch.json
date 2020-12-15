@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Advent1/bin/Debug/netcoreapp2.2/Advent1.dll",
+            "program": "${workspaceFolder}/Advent8/bin/Debug/net5/Advent.exe",
             "args": [],
-            "cwd": "${workspaceFolder}/Advent1",
+            "cwd": "${workspaceFolder}/Advent8",
             "console": "internalConsole",
             "stopAtEntry": false
         },
