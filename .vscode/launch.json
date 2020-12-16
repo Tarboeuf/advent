@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Advent9/bin/Debug/net5/Advent.exe",
+            "program": "${workspaceFolder}/Advent10/bin/Debug/net5/Advent.exe",
             "args": [],
-            "cwd": "${workspaceFolder}/Advent9",
+            "cwd": "${workspaceFolder}/Advent10",
             "console": "internalConsole",
             "stopAtEntry": false
         },
