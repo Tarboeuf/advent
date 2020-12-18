@@ -7,9 +7,10 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Advent10/Advent.csproj",
+                "${workspaceFolder}/Advent13/Advent.csproj",
                 "/property:GenerateFullPaths=true",
-                "/consoleloggerparameters:NoSummary"
+                "/consoleloggerparameters:NoSummary",
+                "/p:Platform=x64"
             ],
             "problemMatcher": "$msCompile"
         },
