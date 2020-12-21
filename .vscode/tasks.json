@@ -7,10 +7,9 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Advent13/Advent.csproj",
+                "${workspaceFolder}/Advent14/Advent.csproj",
                 "/property:GenerateFullPaths=true",
-                "/consoleloggerparameters:NoSummary",
-                "/p:Platform=x64"
+                "/consoleloggerparameters:NoSummary"
             ],
             "problemMatcher": "$msCompile"
         },
@@ -20,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Advent10/Advent.csproj",
+                "${workspaceFolder}/Advent14/Advent.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/Advent10/Advent.csproj",
+                "${workspaceFolder}/Advent14/Advent.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
